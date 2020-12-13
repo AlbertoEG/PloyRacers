@@ -1,0 +1,6 @@
+Car Model: -
+Media (Vuelta)|00:21:348|21,34804
+Mediana (Vuelta)|00:23:281|23,28097
+Media (Circuito)|01:25:392|85,39216
+Mejor vuelta|00:20:377|20,37672
+
